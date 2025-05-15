@@ -37,3 +37,5 @@ I2S Digital Audio Interface
 LRCLK
 BCLK
 DIN
+
+最大的问题是封装, 感觉有点小,焊接会比较困难.不如直接买模块,当然也可以尝试以下.
